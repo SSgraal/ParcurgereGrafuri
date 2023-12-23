@@ -33,6 +33,9 @@ body{
     background-color: brown;
     color:black;
 }
+.topNav a.nume{
+    float: right;
+}
 
 .header{
     background-color: black;
